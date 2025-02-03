@@ -1,3 +1,14 @@
+/*
+
+    Author:     Sam Whitlock
+    Date:       February 3, 2025
+
+    Completed?  In Progress
+    Notes:
+        
+
+*/
+
 vector<int> rearrangeArray(vector<int>& nums) {
         
         // I think I will be creating a new vector to return
